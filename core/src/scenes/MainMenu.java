@@ -14,6 +14,7 @@ import helpers.GameInfo;
  * Created by Home on 26/11/2017.
  * Tutorial Lesson 4
  * Will hold all the scenes
+ * GitHub on 13th May 2018
  */
 
 public class MainMenu implements Screen{
